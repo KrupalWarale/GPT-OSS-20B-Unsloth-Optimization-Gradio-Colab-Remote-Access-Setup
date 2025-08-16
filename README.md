@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6888a241-240c-47e4-bf74-6429dbcfe5bc" />
 # 🚀 GPT-OSS 20B with Unsloth + Gradio Interface
 
 This project demonstrates how to **efficiently load, run, and interact** with the **GPT-OSS 20B model** using [Unsloth](https://github.com/unslothai/unsloth) optimizations.
@@ -7,7 +7,10 @@ It also provides **Gradio-powered web apps** for real-time chatbot interaction �
 ---
 
 ## ✨ Why This Project?
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bf82806-2c57-4c8f-9150-35cb9e381006" />
 
+<br>
 Running **20B+ parameter models** is usually **impossible on free GPUs** like Google Colab’s Tesla T4.
 This notebook solves that by using **Unsloth** + **4-bit quantization**, making it lightweight enough to run **for free** without hitting memory issues.
 
@@ -57,6 +60,11 @@ We provide **two ready-to-use apps**:
   * Max Tokens (output length)
   * Temperature (randomness of response)
 * Real-time streaming, no delays.
+
+  <br>
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3507a4fc-9154-4aa9-bdeb-f80ebc9aea52" />
+
+  <br>
 
 ---
 
