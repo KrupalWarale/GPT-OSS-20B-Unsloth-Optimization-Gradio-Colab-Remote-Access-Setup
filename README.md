@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6888a241-240c-47e4-bf74-6429dbcfe5bc" />
+
 # 🚀 GPT-OSS 20B with Unsloth + Gradio Interface
 
 This project demonstrates how to **efficiently load, run, and interact** with the **GPT-OSS 20B model** using [Unsloth](https://github.com/unslothai/unsloth) optimizations.
