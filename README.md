@@ -8,7 +8,7 @@ It also provides **Gradio-powered web apps** for real-time chatbot interaction �
 
 ## ✨ Why This Project?
 <br>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bf82806-2c57-4c8f-9150-35cb9e381006" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/8bf82806-2c57-4c8f-9150-35cb9e381006" />
 
 <br>
 Running **20B+ parameter models** is usually **impossible on free GPUs** like Google Colab’s Tesla T4.
@@ -62,7 +62,7 @@ We provide **two ready-to-use apps**:
 * Real-time streaming, no delays.
 
   <br>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3507a4fc-9154-4aa9-bdeb-f80ebc9aea52" />
+  <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/3507a4fc-9154-4aa9-bdeb-f80ebc9aea52" />
 
   <br>
 
