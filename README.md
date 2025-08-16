@@ -127,5 +127,3 @@ This project makes **20B parameter models accessible to everyone** — even on *
 With Unsloth + Gradio, you get a **fast, flexible, reasoning-capable chatbot** that streams responses in real-time and is **shareable worldwide** 🌍.
 
 ---
-
-Would you like me to also create a **📌 "Quick Demo GIF / Screenshot Section"** in the README so it looks more polished (like real open-source repos)?
