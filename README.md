@@ -12,7 +12,7 @@ It also provides **Gradio-powered web apps** for real-time chatbot interaction �
 
 <br>
 Running 20B+ parameter models is usually impossible on free GPUs like Google Colab’s Tesla T4.
-This notebook solves that by using Unsloth + 4-bit quantization, making it lightweight enough to run **for free** without hitting memory issues.
+This notebook solves that by using Unsloth + 4-bit quantization, making it lightweight enough to run #for free without hitting memory issues.
 
 🔑 Unique factors:
 
